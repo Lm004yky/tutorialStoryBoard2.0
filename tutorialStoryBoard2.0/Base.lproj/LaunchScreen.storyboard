@@ -15,36 +15,8 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Heil Hitler!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="vKr-8f-czP">
-                                <rect key="frame" x="75.5" y="412" width="263" height="72"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="60"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oV0-OF-dE2">
-                                <rect key="frame" x="20" y="785" width="374" height="77"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="77" id="iM8-2c-grj"/>
-                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="374" id="rN2-5b-Afr"/>
-                                </constraints>
-                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Button">
-                                    <fontDescription key="titleFontDescription" style="UICTFontTextStyleTitle0"/>
-                                </buttonConfiguration>
-                            </button>
-                        </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="oV0-OF-dE2" secondAttribute="bottom" id="6s5-D3-2pe"/>
-                            <constraint firstItem="oV0-OF-dE2" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="EOB-4x-k7q"/>
-                            <constraint firstItem="vKr-8f-czP" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="YzV-FM-52k"/>
-                            <constraint firstItem="vKr-8f-czP" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="jes-xD-TXA"/>
-                            <constraint firstItem="vKr-8f-czP" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="kU9-G3-hE7"/>
-                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>

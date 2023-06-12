@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10DF3A05-0384-44A0-ABD9-129195967237"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tutorialStoryBoard2.0/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C - 38b14e10116cb727"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tutorialStoryBoard2_0.ViewController.alaqanAppLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tutorialStoryBoard2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ykylasnurkhan/Documents/tutorialStoryBoard2.0/tutorialStoryBoard2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C - 7328437b05491adb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tutorialStoryBoard2_0.ViewController.alaqanAppLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tutorialStoryBoard2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ykylasnurkhan/Documents/tutorialStoryBoard2.0/tutorialStoryBoard2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C - 19dc161d60ad1c24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tutorialStoryBoard2_0.ViewController.alaqanAppLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tutorialStoryBoard2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ykylasnurkhan/Documents/tutorialStoryBoard2.0/tutorialStoryBoard2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C - 632201b7b419a734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tutorialStoryBoard2_0.ViewController.alaqanAppLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "tutorialStoryBoard2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ykylasnurkhan/Documents/tutorialStoryBoard2.0/tutorialStoryBoard2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C - eb29672f84115e11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tutorialStoryBoard2_0.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tutorialStoryBoard2_0.ViewController"
+                  moduleName = "tutorialStoryBoard2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ykylasnurkhan/Documents/tutorialStoryBoard2.0/tutorialStoryBoard2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "3E1A39A7-B47E-428F-8FF8-663E42581C9C - ed5df1ff0021525e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tutorialStoryBoard2_0.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tutorialStoryBoard2_0.ViewController&gt;"
+                  moduleName = "tutorialStoryBoard2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ykylasnurkhan/Documents/tutorialStoryBoard2.0/tutorialStoryBoard2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
